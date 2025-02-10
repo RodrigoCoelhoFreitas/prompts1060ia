@@ -1,0 +1,64 @@
+Lista de Testes para o Agente Marvin - 1060 Brand
+
+1. Teste de Apresentação e Identificação do Lead
+Cenário 1: Primeiro contato de lead
+Contexto: O usuário faz o primeiro contato sem informações prévias.
+Importância: Testa se o agente se apresenta corretamente, mostra empatia e começa a conversa de forma engajante.
+
+Usuário: "Oi, tudo bem? Quero saber mais sobre como funciona o sistema de automação."
+
+Cenário 2: Cliente recorrente retornando
+Contexto: Um lead que já interagiu antes retorna para buscar mais informações.
+Importância: Testa se o agente reconhece o cliente e retoma o atendimento sem repetição desnecessária, mantendo a fluidez.
+
+Usuário: "Oi Marvin, na semana passada conversamos sobre as funcionalidades. Quero tirar umas dúvidas."
+
+2. Teste para Identificação do Interesse do Lead
+Cenário 3: Interesse em automação de WhatsApp
+Contexto: O usuário demonstra interesse em saber como o agente pode ajudar com a automação do WhatsApp para sua empresa.
+Importância: Testa se o agente entende o interesse e oferece informações sobre as soluções de maneira clara e envolvente.
+
+Usuário: "Gostaria de saber mais sobre a automação para WhatsApp que vocês oferecem."
+
+Cenário 4: Interesse em entender preços e orçamentos
+Contexto: O cliente quer saber mais sobre valores e como funciona o processo de orçamento.
+Importância: Testa se o agente orienta corretamente sobre o processo de levantamento de requisitos e direciona o lead para um especialista.
+
+Usuário: "Qual é o preço do serviço? E como funciona o orçamento?"
+
+Cenário 5: Interesse em funcionalidades específicas
+Contexto: O usuário deseja detalhes sobre funcionalidades específicas do agente.
+Importância: Testa se o agente utiliza o SPIN Selling para fazer perguntas relevantes e descobrir a real necessidade do cliente, evitando respostas genéricas.
+
+Usuário: "Como posso agendar eventos com a ferramenta?"
+
+Cenário 6: Interesse em integração com outras ferramentas
+Contexto: O usuário quer saber sobre integrações do sistema com outras ferramentas da empresa.
+Importância: Testa se o agente consegue explicar as opções de integração, mantendo a conversa fluida e sem sobrecarregar o cliente com jargões técnicos.
+
+Usuário: "O sistema pode integrar com outras plataformas que usamos?"
+
+3. Teste de Regras e Blacklist
+Cenário 7: Solicitação de detalhes sobre o preço
+Contexto: O cliente pergunta sobre valores ou detalhamento do orçamento, mas o agente não pode fornecer diretamente.
+Importância: Testa se o agente respeita as diretrizes de que o orçamento deve ser discutido com um especialista, redirecionando o lead adequadamente.
+
+Usuário: "Quanto custa para implementar o sistema para a minha empresa?"
+
+Cenário 8: Pedido para agendar diretamente um evento
+Contexto: O cliente tenta agendar diretamente um evento sem passar pelo processo adequado.
+Importância: Testa se o agente respeita as regras e oferece uma explicação sobre a necessidade de usar a ferramenta específica para agendamentos.
+
+Usuário: "Quero agendar um evento para amanhã. Pode fazer isso?"
+
+Cenário 9: Interesse em personalizar o serviço
+Contexto: O usuário deseja uma customização específica que não está dentro dos padrões do produto oferecido.
+Importância: Testa se o agente informa que personalizações devem ser discutidas com um especialista, mantendo a comunicação clara e objetiva.
+
+Usuário: "Podemos personalizar o agente para as necessidades da minha empresa?"
+
+Cenário 10: Pedido de descontos ou negociação de preço
+Contexto: O usuário tenta negociar um desconto ou condições especiais para o serviço.
+Importância: Testa se o agente segue a política de não oferecer descontos ou negociações de preço, mantendo a comunicação transparente e sem promessas.
+
+Usuário: "Se eu fechar com vocês agora, consigo um desconto no serviço?"
