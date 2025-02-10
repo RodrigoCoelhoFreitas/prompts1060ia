@@ -1,73 +1,69 @@
-Lista de Perguntas e Diálogos Teste para o Agente Lucas - Society Praia Clube
+**Lista de Testes para o Agente Lucas - Society Praia Clube**
 
-1. Teste de Apresentação e Identificação do Lead
+### 1. Teste de Apresentação e Identificação do Lead
 
-Cenário 1: Novo lead
+#### **Cenário 1: Novo lead**
+**Contexto:** O usuário faz o primeiro contato, sem informações prévias.
+**Importância:** Testa se o agente se apresenta corretamente e inicia a conversa de forma acolhedora e envolvente.
 
 Usuário: "Oi, tudo bem? Queria saber mais sobre vocês."
 
-Resposta esperada: Lucas deve se apresentar de forma amigável e acolhedora, reforçando como é bom receber a mensagem e perguntando sobre o interesse do lead.
-
-Cenário 2: Cliente existente
+#### **Cenário 2: Cliente existente**
+**Contexto:** Um usuário que já interagiu antes retorna para tirar dúvidas.
+**Importância:** Testa se o agente reconhece o usuário e evita apresentações desnecessárias, mantendo o foco na dúvida.
 
 Usuário: "Oi Lucas, semana passada aluguei a quadra e queria tirar uma dúvida."
 
-Resposta esperada: Lucas não deve se apresentar novamente, mas sim identificar a dúvida e responder de forma objetiva.
+---
+### 2. Teste para Identificação do Interesse do Lead
 
-2. Teste para Identificação do Interesse do Lead
-
-Cenário 3: Escolinha de futebol
+#### **Cenário 3: Escolinha de futebol**
+**Contexto:** O lead quer informações sobre aulas para crianças.
+**Importância:** Testa se o agente coleta as informações relevantes (idade da criança) e orienta corretamente sobre horários e aula experimental.
 
 Usuário: "Tenho um filho e queria saber como funcionam as aulas de futebol."
 
-Resposta esperada: Lucas deve perguntar a idade da criança e, com base na resposta, fornecer os horários adequados, oferecer a aula experimental gratuita e seguir o procedimento da escolinha.
-
-Cenário 4: Aluguel da quadra
+#### **Cenário 4: Aluguel da quadra**
+**Contexto:** O usuário deseja reservar uma quadra.
+**Importância:** Testa se o agente direciona corretamente para o sistema de agendamento Webquadras, sem prometer reservas diretas.
 
 Usuário: "Vocês alugam quadras? Como faço para reservar?"
 
-Resposta esperada: Lucas deve explicar que o agendamento é feito pelo Webquadras, enviar o link de forma clicável e orientar o usuário a clicar no botão amarelo "Reservar online".
-
-Cenário 5: Festa ou confraternização
+#### **Cenário 5: Festa ou confraternização**
+**Contexto:** O usuário quer informações sobre pacotes para eventos no clube.
+**Importância:** Testa se o agente fornece preços e contatos corretos para organização de eventos.
 
 Usuário: "Queria saber sobre o aluguel da churrasqueira e da quadra para uma festa."
 
-Resposta esperada: Lucas deve informar os preços da locação da churrasqueira e do combo quadra + churrasqueira, incluindo taxas adicionais, e fornecer o contato do Laerte Barroco para mais detalhes.
-
-Cenário 6: Compra de produtos
+#### **Cenário 6: Compra de produtos**
+**Contexto:** O usuário quer adquirir produtos relacionados ao clube.
+**Importância:** Testa se o agente informa corretamente a disponibilidade e contato para compra de uniformes e outros itens.
 
 Usuário: "Vocês vendem uniformes do clube?"
 
-Resposta esperada: Lucas deve descrever os produtos disponíveis e os preços, passando o contato do Laerte Barroco para consulta de disponibilidade.
-
-Cenário 7: Suporte
+#### **Cenário 7: Suporte**
+**Contexto:** O usuário precisa alterar uma reserva já feita.
+**Importância:** Testa se o agente segue as regras de atendimento, esclarecendo que não realiza alterações e direcionando ao suporte adequado.
 
 Usuário: "Preciso remarcar meu horário da quadra."
 
-Resposta esperada: Lucas deve informar que não faz agendamentos e fornecer o contato do Laerte Barroco para suporte.
+---
+### 3. Teste de Regras e Blacklist
 
-3. Teste de Regras e Blacklist
-
-Cenário 8: Erro na identificação do nome da criança
+#### **Cenário 8: Erro na identificação do nome da criança**
+**Contexto:** O usuário menciona diretamente o nome da criança.
+**Importância:** Testa se o agente entende que o nome já foi informado e foca na próxima informação necessária (idade) sem redundância.
 
 Usuário: "Quero marcar aula para meu filho Gabriel."
 
-Resposta errada: "Ok, Gabriel! Qual é o nome do seu filho?"
-
-Resposta correta: "Legal! Qual é a idade do Gabriel para verificarmos os horários disponíveis?"
-
-Cenário 9: Solicitação de reserva da quadra diretamente
+#### **Cenário 9: Solicitação de reserva da quadra diretamente**
+**Contexto:** O usuário tenta fazer a reserva diretamente pelo atendimento.
+**Importância:** Testa se o agente respeita a regra de que reservas só são feitas pelo Webquadras e redireciona corretamente.
 
 Usuário: "Pode reservar a quadra para mim amanhã?"
 
-Resposta errada: "Claro, agendado!"
-
-Resposta correta: "As reservas são feitas pelo Webquadras! Vou te passar o link para você escolher o melhor horário."
-
-Cenário 10: Pedido de desconto ou negociação de preço
+#### **Cenário 10: Pedido de desconto ou negociação de preço**
+**Contexto:** O usuário tenta negociar valores da escolinha.
+**Importância:** Testa se o agente mantém a política de preços fixos sem prometer descontos indevidos.
 
 Usuário: "Você pode fazer um desconto na escolinha se eu pagar o semestre todo?"
-
-Resposta errada: "Sim, podemos dar um desconto especial."
-
-Resposta correta: "As mensalidades seguem uma tabela fixa, mas posso te passar todas as opções para escolher a melhor para você!"
