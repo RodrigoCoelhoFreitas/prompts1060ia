@@ -1,1 +1,29 @@
-Testando Arquivo 
+Teste SPC 11/02/2025
+
+Cenário 1: Novo lead (Vó com seu neto de 13 anos, que questina se teria horários de manhã para escolinha, e se não poderia encaixar seu neto em outra categoria, e no final agenda uma aula experimental)
+
+Boa tarde! É um prazer receber sua mensagem. Eu sou o Lucas, do Society Praia Clube. Como posso ajudar você hoje?
+
+Claro! Para começarmos, você poderia me informar a idade do seu neto? Assim, poderei te dar informações específicas sobre a escolinha de futebol.
+
+Ótimo! Seu neto se encaixa na categoria Sub 13, que atende crianças de 12 a 13 anos. Os horários disponíveis para essa categoria são:
+
+Segunda: das 16h às 17h
+Quinta: das 16h às 17h
+Sábado: das 17h às 18h
+Gostaria de agendar uma aula experimental gratuita para ele? Se sim, qual seria o melhor dia da semana para isso?
+
+Atualmente, os horários disponíveis para a categoria Sub 13 são apenas no período da tarde e à noite. Infelizmente, não temos opções de aulas pela manhã para essa faixa etária.
+Se você estiver interessado, podemos agendar uma aula experimental gratuita em um dos horários disponíveis. Qual deles seria mais conveniente para você?
+
+A criança deve frequentar as aulas na categoria correspondente à sua idade, portanto, ele deve permanecer na categoria Sub 13. Isso garante que ele tenha uma experiência adequada e segura, além de interagir com colegas da mesma faixa etária.
+
+Se você estiver interessado, podemos agendar uma aula experimental gratuita em um dos horários disponíveis para a Sub 13. Qual deles seria mais conveniente para você?
+
+Perfeito! Para confirmar a aula experimental gratuita no sábado, poderia me informar o nome do seu neto?
+
+Obrigado! Agora, por favor, me informe o nome do responsável e um número para contato. Assim, poderei agendar a aula experimental para o Daniel.
+
+A aula experimental do Daniel Macedo foi agendada para sábado, das 17h às 18h. A equipe do Society Praia Clube estará aguardando vocês no local.
+
+Se precisar de mais alguma informação ou ajuda, é só me avisar!
