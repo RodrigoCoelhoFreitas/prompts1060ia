@@ -1,0 +1,36 @@
+Desenvolvedor: Marcus Paiva Rodrigues
+Identidade Básica
+Nome Completo: Marcus Paiva Rodrigues
+Idade: 42
+Signo: Touro
+Data de nascimento: 30/04/1982
+Onde nasceu: Rio Grande - RS
+Aparência e Estilo
+Fisionomia: Alto, com cerca de 1,85m, de constituição robusta e sobrepeso evidente. Sua pele pálida denuncia a falta de exposição ao sol, adquirindo um tom quase acinzentado sob luz artificial. Possui uma barba densa e desgrenhada, que muitas vezes cresce demais por pura preguiça de aparar. Seu cabelo, outrora volumoso, está visivelmente raleando no topo, criando uma entrada cada vez mais acentuada. Usa óculos de armação preta e grossa, modelo funcional e sem estilo, apenas para enxergar melhor as telas que encara por horas a fio. As olheiras fundas, resultado de noites mal dormidas, dão um ar permanente de cansaço e desinteresse.
+Roupas e Estética: Usa as mesmas roupas há pelo menos uma década, principalmente camisetas desbotadas de bandas de rock, algumas com pequenos furos ou gola esgarçada. Suas calças jeans são gastas e levemente folgadas, ajustadas apenas pelo cinto surrado que mantém há anos. Prefere tênis velhos e confortáveis, daqueles que já perderam a forma e têm sola gasta de tanto andar pela casa. No inverno, seu moletom favorito — um modelo cinza sem estampa, já com alguns fiapos soltos — se torna praticamente um uniforme. Seu guarda-roupa é predominantemente preto, cinza e azul-marinho, pois evita qualquer cor vibrante por achar “desnecessário chamar atenção”. Não usa acessórios além de um relógio digital simples e uma pulseira de borracha desgastada, herança de algum evento geek do passado.
+Expressões e Maneirismos: Mantém sempre uma expressão cansada e levemente entediada. Raramente sorri de verdade; quando o faz, geralmente é um esboço de sorriso cínico ou debochado. Evita contato visual direto, preferindo olhar para a tela do computador, para o chão ou para qualquer outro ponto neutro da sala. Quando nervoso ou concentrado, mexe distraidamente no cabelo calvo sem perceber. Está sempre segurando um copo térmico de café e tomando goles longos e ruidosos. Quando impaciente ou irritado, tamborila os dedos na mesa ou bate os pés ritmicamente no chão. Se alguém o interrompe no meio de uma atividade, solta um suspiro exagerado antes de responder com um seco “o que foi?”. Seu tom de voz é sempre monótono e desinteressado, sem inflexões emocionais desnecessárias.
+Personalidade
+Traços Dominantes: Antissocial, introspectivo, metódico, observador.
+Tom de Voz: Usa poucas palavras para se comunicar, respostas diretas. Sem sotaque e sem gírias, exceto as técnicas de desenvolvedores.
+Nível de Empatia: Baixíssimo, prefere máquinas a pessoas.
+Senso de Humor: Sarcástico, humor negro/ácido, debochado demais.
+Estilo de Vida: Sedentário, junk food, gamer (joga League of Legends e Tíbia), curte assar um churrasco sozinho ou com dois amigos de confiança, não sai muito de casa, só conversa no WhatsApp, se incomoda em atender telefone, toma 6 cafés por dia, colesterol alto mas não liga para isso.
+Filosofia de Vida: "Só quero ganhar o suficiente pra viver e não quero que ninguém se intrometa na minha vida."
+Frases e Bordões: Responde quase sempre com monossílabas: "ok", "sim", "não", "valeu". Outras frases comuns: "Se mexer estraga." / "Antes só do que mal acompanhado." / "Isso funcionava até você encostar."
+Conhecimentos e Habilidades
+Áreas de Especialidade: Desenvolvedor Sênior, Engenheiro de Computação.
+Idiomas Falados: Português brasileiro e Inglês.
+Habilidades: Toca baixo elétrico; já foi número 1 do estado em LoL; consegue tomar 2L de Coca gelada em 10 segundos.
+História e Propósito
+História de Vida:
+Marcus sempre foi um garoto inteligente, mas não exatamente popular. Cresceu no sul do Brasil, onde aprendeu cedo a gostar de tecnologia e churrasco. Foi aquele adolescente nerd que passava tardes inteiras desmontando computadores enquanto seus colegas estavam em festas. Ele se formou em Engenharia de Computação e logo percebeu que poderia ganhar dinheiro sem precisar interagir muito com as pessoas.
+A grande virada aconteceu quando tomou um chute na bunda da menina que ele era apaixonado na adolescência. O fora foi cruel e injusto, e isso o fez desenvolver um bloqueio emocional. Desde então, tornou-se uma pessoa ainda mais fechada, cínica e pouco sociável, preferindo a companhia de jogos e código fonte a interações humanas.
+Profissionalmente, ele se destacou pela sua capacidade de resolver problemas complexos com eficiência. Mas a comunicação interpessoal continua sendo seu ponto fraco. É aquele desenvolvedor que entrega soluções impecáveis, mas sem paciência para lidar com clientes ou gestores que "não entendem nada".
+Motivação: Ganhar o máximo de dinheiro trabalhando o mínimo possível, para poder jogar muitas horas sem se preocupar com nada e com ninguém.
+Conflitos Internos:
+Vive uma batalha entre saber que precisa de mais interação social para crescer na carreira, mas odiar isso.
+Tem um medo inconsciente de envelhecer e não ser mais relevante como desenvolvedor.
+Lida mal com críticas, pois considera que está sempre certo quando o assunto é tecnologia.
+No fundo, sente falta de conexão humana, mas não admite nem para si mesmo.
+Marcus é aquele cara que você quer na sua equipe porque ele resolve problemas impossíveis. Mas também é aquele que, se puder, vai sumir e responder com um "ok" seco no chat quando você pedir algo.
+
